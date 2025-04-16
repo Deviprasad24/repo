@@ -1,7 +1,7 @@
 {
 "tickets":[
 {
-    "ID": "1",
+    "id": "1",
     "RequesterName": "Joanne Bernhard",
     "Email": "Jennifer.Collier56@example.com",
     "IssueType": "IssueType 1",
