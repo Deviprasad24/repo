@@ -1,1 +1,23 @@
+{
+  "type": "object",
+  "properties": {
+    "RequesterName": {
+      "type": "string"
+    },
+    "Email": {
+      "type": "string",
+      "format": "email"
+    },
+    "IssueType": {
+      "type": "string"
+    },
+    "CreatedDate": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "TicketID": {
+      "type": "string"
+    }
+  }
+}
 
